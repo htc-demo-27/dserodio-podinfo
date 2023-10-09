@@ -21,7 +21,7 @@ resources:
   cache:
     type: redis
   neocache:
-    type: reddis
+    type: redis
   route:
     type: route
     params:
